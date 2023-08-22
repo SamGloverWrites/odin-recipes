@@ -3,3 +3,27 @@ img {
   width: 500px;
 }
 
+body {
+font-family: "Courier New",monospace;
+background-color: rgb(246, 246, 242)
+}
+
+.frontpage {
+text-align: center;
+font-size:35px;
+}
+
+.button {
+background-color: gray;
+color: black;
+padding: 12px 28px;
+text-align: center;
+display: inline-block;
+cursor: pointer;
+margin: 2px 2px;
+font-size: 20px;
+}
+
+.buttons {
+align: center;
+}
